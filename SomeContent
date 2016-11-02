@@ -1,2 +1,6 @@
 SomeContent
-Bananas
+<<<<<<< HEAD
+Donkeys
+=======
+
+>>>>>>> master
